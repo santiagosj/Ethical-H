@@ -1,5 +1,4 @@
 # Experto Universitario en Ethical Hacking
-==========================================
 
 ### Cada rama de este repo contiene un readme con los respectivos ejercicios de cada unidad.Ej: 
 
