@@ -17,3 +17,16 @@ Mis comienzos en el mundo de la informática vienen de la mano de mi insatisfech
 * Capa de Red: IP Address, routers
 * Capa Transporte: TCP, UDP y puertos 
 * Capa Aplicación: HTTP, FTP, SMTP.
+
+## Ejercicio 4
+
+1. Ventajas y desventajas de una topología de Arbol: 
+    una de las ventagas de esta topología es el desacople que nos permite implementar dado que podemos separar por pequeñas redes locales independientes entre si pero dependientes de un servidor principal. 
+2. Ventajas y desventajas de una topología de Malla:
+    La principal ventaja de esta topología es que al estar todos sus nodos conectados unos con otros, le da a la red una gran resistencia a fallos ya que ningun nodo es indispensable y comparten por igual los recursos de red. La desventaja es el armado de dicha red, es costosa en cuanto a cableado y aumenta su complejidad a medida que aumentan sus nodos.
+3. Ventajas y desventajas de una topología de Estrella extendida:
+    La principal ventaja es la independencia de cada nodo. Pero a su ves esa es su desventaja pues todos los nodos dependen de uno principal.
+## Ejercicio 5
+
+1. En el primer caso, la red wan es de tipo arbol, mientras que las LAN son de tipo BUS.
+2. La topología del segundo caso es de árbol.
