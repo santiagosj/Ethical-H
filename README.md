@@ -88,3 +88,7 @@ rtt min/avg/max/mdev = 41.251/48.479/78.376/13.382 ms
 ip: 151.101.1.69
 binario: 00110100.10010111.11110001.11011010
 ```
+
+## Ejercicio 3
+![Bus Topology Template](https://user-images.githubusercontent.com/29964977/122690065-9b750280-d1fd-11eb-82bb-ce065c828969.png)
+Tipologia bus con IPS e IDS  dos firewalls
