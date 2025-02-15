@@ -8,8 +8,6 @@
 
 ## Ejercicio 2
 
-Mis comienzos en el mundo de la informática vienen de la mano de mi insatisfecha curiosidad intelectual. Mi hermano menor me prestó un PC de escritorio el cual utilicé para grabarme tocando el piano y de apoco empecé a ver dicha PC como el agujero del conejo. De a poco empecé a programar de manera autodidacta y tomando cursos algunos de UTN como este y otros en Udemy. Fui dando me cuenta de lo hermoso de este camino y las posibilidades que ofrece y no deja de sorprenderme.
-
 ## Ejercicio 3
 
 * Capa Física: Cables, dispositivos fisicos, hubs.
